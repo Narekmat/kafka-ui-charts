@@ -1,2 +1,2 @@
-# kafka-ui-charts
-UI For Apache Kafka Helm Charts
+# kafka-ui
+UI for Apache Kafka management
